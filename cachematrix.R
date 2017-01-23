@@ -34,5 +34,5 @@
      r <- solve(data, ...)
      x$setInverse(r)
      r
-     
+     }
     
